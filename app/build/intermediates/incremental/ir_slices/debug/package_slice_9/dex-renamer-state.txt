@@ -1,0 +1,4 @@
+#Sat Jun 30 15:56:20 WAT 2018
+base.0=C\:\\Users\\Dell\\Desktop\\android folder\\JournalApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
